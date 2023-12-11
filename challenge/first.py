@@ -14,7 +14,7 @@ with st.container():
   st.header("Day_1 Dec-11")
 
   with st.container():
-    st.write("1. Hosting this website using github and streamlit cloud")
+    st.text("1. Hosting this website using github and streamlit cloud")
     st.write("2. completion of sql queries joins and aggregates")
     st.write("3. leet code question island question")
     st.write("4. Done mock interview with friend, suggestion to improvise on edge cases")
