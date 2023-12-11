@@ -3,6 +3,12 @@ import streamlit as st
 st.title("60_Day_Coding_Challenge")
 
 
+with st.subheader():
+  st.write("Focus areas")
+  st.write("DSA")
+  st.write("SQL")
+
+
 with st.container():
   st.header("Day_2 Dec-12")
   
