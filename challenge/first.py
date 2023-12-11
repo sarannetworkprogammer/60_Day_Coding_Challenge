@@ -7,7 +7,7 @@ with st.container():
   st.header("Day_2 Dec-12")
   
   with st.container():
-    st.write("Solving leet code questions")
+    st.write("1. Solving leet code questions")
 
 with st.container():
   st.header("Day_1 Dec-11")
