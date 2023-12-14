@@ -9,7 +9,7 @@ def day4():
     st.header("Day_4 Dec-14")
   
     with st.container():
-      st.write("Participated in UTSA- Nvidia Day")
+      st.write("1. Participated in UTSA- Nvidia Day")
 
 
 
