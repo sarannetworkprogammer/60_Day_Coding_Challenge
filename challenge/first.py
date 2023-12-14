@@ -3,9 +3,6 @@ import streamlit as st
 st.title("60_Day_Coding_Challenge")
 
 
-with st.contao
-
-
 def day2():
 
   with st.container():
