@@ -10,8 +10,8 @@ def day2():
     
     with st.container():
       st.write("1. Solving leet code questions")
-      st.text("2. Done mock interview with friend, suggestion to improvise on edge cases")
-      st.text("3. Finished SQL queries on CRUD operations")
+      st.write("2. Done mock interview with friend, suggestion to improvise on edge cases")
+      st.write("3. Finished SQL queries on CRUD operations")
 
 def day1():
 
