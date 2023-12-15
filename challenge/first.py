@@ -9,8 +9,9 @@ def day4():
     st.header("Day_4 Dec-14")
   
     with st.container():
-      st.write("1. Participated in UTSA- Nvidia Day")
-
+      st.write("1. Participated in UTSA-NSCC Collaboration Nvidia Day")
+      st.write("2. workshop on Generative AI")
+      st.write("3. Topics covered Retrieval-augmented generation (RAG), LLM + Agents (Example)Car Configurator + Omniverse, Prompt Engineering") 
 
 
 

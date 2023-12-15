@@ -1,0 +1,16 @@
+Nvidia morepheus cyber security AI
+
+
+RAG 
+
+Foundational + Datasets = RAG
+
+Agent : to create an action plan
+
+Fine tuning Lora SQL
+
+Nvidia Nemo
+
+
+Inference for Genai
+
