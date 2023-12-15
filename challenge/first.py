@@ -3,6 +3,17 @@ import streamlit as st
 st.title("60_Day_Coding_Challenge")
 
 
+
+def day5():
+  with st.container():
+    st.header("Day_5 Dec-15")
+
+    with st.container():
+      st.write("1. Building personal website")
+      st.write("Brainstorming ideas to create a tracker tool so that it can be reused")
+
+ 
+
 def day4():
   with st.container():
     st.header("Day_4 Dec-14")
