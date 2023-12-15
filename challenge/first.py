@@ -13,6 +13,7 @@ def day4():
       st.write("2. workshop on Generative AI")
       st.write("3. Topics covered Retrieval-augmented generation (RAG), LLM + Agents (Example)Car Configurator + Omniverse, Prompt Engineering")
       st.write("4. Foundational + Datasets = RAG")
+      st.write("5. NVIDIA Morpheus Cybersecurity-AI Frame work")
 
 
 
