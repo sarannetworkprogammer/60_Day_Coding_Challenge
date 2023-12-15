@@ -11,7 +11,8 @@ def day4():
     with st.container():
       st.write("1. Participated in UTSA-NSCC Collaboration Nvidia Day")
       st.write("2. workshop on Generative AI")
-      st.write("3. Topics covered Retrieval-augmented generation (RAG), LLM + Agents (Example)Car Configurator + Omniverse, Prompt Engineering") 
+      st.write("3. Topics covered Retrieval-augmented generation (RAG), LLM + Agents (Example)Car Configurator + Omniverse, Prompt Engineering")
+      st.write("4. Foundational + Datasets = RAG")
 
 
 
