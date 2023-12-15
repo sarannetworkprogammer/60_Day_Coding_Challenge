@@ -4,10 +4,8 @@ st.title("60_Day_Coding_Challenge")
 
 
 def day4():
-  
   with st.container():
     st.header("Day_4 Dec-14")
-  
     with st.container():
       st.write("1. Participated in UTSA-NSCC Collaboration Nvidia Day")
       st.write("2. workshop on Generative AI")
